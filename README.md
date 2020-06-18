@@ -1,4 +1,4 @@
-# GraphQL Demo <img src="https://commons.wikimedia.org/wiki/File:GraphQL_Logo.svg">
+# GraphQL Demo 👩🏻‍💻
 
 ### This is an Experiental project made using GraphQL to checkout its features.
  
